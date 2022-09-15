@@ -1,7 +1,7 @@
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1660053721269/work/dist
 AnyQt @ file:///home/conda/feedstock_root/build_artifacts/anyqt_1659515225004/work
-appdirs==1.4.4
+appdirs==1.4.4 dgadfgsdg
 argh @ file:///home/conda/feedstock_root/build_artifacts/argh_1595627874344/work
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1640817743617/work
 argon2-cffi-bindings @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi-bindings_1649500321618/work
